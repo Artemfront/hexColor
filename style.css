@@ -1,0 +1,32 @@
+body {
+    font-size: 24px;
+    max-width:1920px;
+    width:100%;
+    overflow: hidden;
+
+    background-color:#8A6872;
+}
+
+#btn {
+    width: 128px;
+    height: 44px;
+
+    margin-left:45%;    
+
+    color:white;
+    background-color:#5a626888;
+    border: 1px solid #5a626831;
+    border-radius:16px;
+}
+
+
+h1 {
+    margin-top:400px;
+    margin-left:36.5%; 
+}
+
+#btn:hover {
+    background-color:#5a6268;
+    border: 1px solid #5a6268;
+    cursor:pointer;
+}
